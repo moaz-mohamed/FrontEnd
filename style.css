@@ -1,0 +1,44 @@
+*{
+    color:white;  
+    font-size:medium;
+    font-family:sans-serif; 
+} 
+
+
+.main{
+     background-color: rgb(60,60,60);
+     height:100vh;
+ }
+
+ ul{
+     top: 200px;
+     list-style:none;
+     float:left;
+     
+     
+
+ }
+ ul li {
+     display:inline-block;
+     margin-top:300px;
+ }
+ a{
+     
+   
+    font-family:sans-serif; 
+
+ }
+ .main p{
+   
+     max-width: 600px;
+     margin-left: 500px;
+     margin-top: 300px 
+     
+  
+ }
+ .logo img{
+    margin-top: 50px;
+    margin-left : 50%;
+    transform: translateX(-75px);
+
+ }
